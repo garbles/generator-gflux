@@ -1,6 +1,6 @@
 {
   "name": "generator-gflux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates actions/stores/components for your Flux App",
   "license": "MIT",
   "main": "app/index.js",
