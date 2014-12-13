@@ -1,0 +1,38 @@
+{
+  "name": "generator-gflux",
+  "version": "0.0.1",
+  "description": "Generates actions/stores/components for your Flux App",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "garbles/generator-gflux",
+  "author": {
+    "name": "Gabe Scholz",
+    "email": "gabe+gh@brewhouse.io",
+    "url": "https://github.com/garbles"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app",
+    "store"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}

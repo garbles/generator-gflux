@@ -1,0 +1,4 @@
+node_modules/
+.yo-rc.json
+*.swp
+*.swo
