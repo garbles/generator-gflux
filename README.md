@@ -36,6 +36,15 @@ js/components/GabeComponent.js
 js/stores/GabeStore.js
 ```
 
+## TODO
+
+- Add test file templates for jest
+- Add actual tests for the generator
+
+## Contributing
+
+If you would like to contribute, please open a pull request for one of the above TODO items. I will not be accepting pull requests for stylistic changes, though feel free to open an issue for discussion. I've made this for my own personal use and thus the generated files follow my style of writing JavaScript.
+
 ## License
 
 MIT
