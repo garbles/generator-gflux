@@ -1,4 +1,7 @@
 node_modules/
+actions/
+components/
+stores/
 .yo-rc.json
 *.swp
 *.swo

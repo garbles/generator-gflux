@@ -31,7 +31,7 @@ yo gflux:store Gabe
 Which will create:
 
 ```
-js/actions/GabeAction.js
+js/actions/GabeActions.js
 js/components/GabeComponent.js
 js/stores/GabeStore.js
 ```

@@ -7,7 +7,7 @@
   "repository": "garbles/generator-gflux",
   "author": {
     "name": "Gabe Scholz",
-    "email": "gabe+gh@brewhouse.io",
+    "email": "gabe+node@brewhouse.io",
     "url": "https://github.com/garbles"
   },
   "engines": {
